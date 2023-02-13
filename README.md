@@ -1,6 +1,5 @@
-- 👋 Hi, my name is Justin and I am a CS student from Germany
-- 👀 I’m interested in gaming, movies and of course coding
-- I mainly work on small games right now with Unity and C#, but I also use C for university assignments
+- 👋 Hi, my name is Justin
+- I mainly work on small games with Unity and C#
 
 <!---
 JustnB01/JustnB01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
