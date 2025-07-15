@@ -1,4 +1,4 @@
-- Justin / 23yo
+- Justin / 24yo
 - Webdev Apprentice. Working with PHP, SASS and JS
 - Currently learning to develop games with Godot and Unreal Engine
 <!---
